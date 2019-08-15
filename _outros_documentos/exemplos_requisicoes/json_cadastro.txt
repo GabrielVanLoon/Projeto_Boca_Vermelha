@@ -1,0 +1,17 @@
+{
+	"nomeVitima":			"Juliana Greice Teste",
+	"enderecoVitima":		"Rua das Flores, nº 197, Cidade Jardim - São Carlos SP",
+	"idFaixaEtariaVitima":	2,
+	
+	"nomeSuspeito":				"Kléberson da Silva Campos (KLB)",
+	"enderecoSuspeito":			"Rua 9 de Setembro, nº 188. Cidade Jardim - São Carlos SP",
+	"idFaixaEtariaSuspeito":	4,
+	
+	"idConexaoVitimaSuspeito":  2,
+	
+	"localOcorrencia":		"Agência Digital Dominique",
+	"descricaoOcorrencia":	"O KLB ficou esperando a juliana sair do trabalho. Ela não quis conversar com ele e então ele puxou ela pelos cabelos e arrastou pro meio da rua. Uns caras na rua foram pra cima dela e ela conseguiu se soltar mas ele ameaçou de matar ela.",
+	"ufOcorrencia":			"SP",
+	"idCategoria":			 2,
+	
+}

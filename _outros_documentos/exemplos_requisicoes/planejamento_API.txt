@@ -1,0 +1,19 @@
+Controllers: Fazem o mapeamento da API
+	- DenunciaController
+		>> cadastrarDenuncia  (POST)
+		>> acompanharDenuncia (POST)
+		>> buscarEstatisticas (GET)
+
+Entities: Implementa as classes com seus atributos
+	- Denuncia
+
+Models: Implementa as regras de negócio / validações
+	- DenunciaModel
+
+DAO (Data Access Object): Camada de persistencia com as Querys do banco
+	- DenunciaDAO
+
+
+
+
+ 	

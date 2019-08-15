@@ -1,0 +1,38 @@
+********************************
+	CONTEÚDOS DESSE ZIP
+********************************
+
+	Esse zip contém um aplicativo Android, um aplicativo Java EE também as configurações para criar e popular o banco de dados do sistema.
+
+	As etapas de como configurar o projeto se encontram detalhadas no Relatório do Projeto, porém é interessante saber que há nas pastas:
+
+********************************
+	BANCO_DE_DADOS
+********************************
+
+	-script_gerar_db_bocavermelha.sql: Script para criar o banco e as suas tabelas. Porém o banco é criado vazio.
+
+	-script_popular_tabelas.txt: Script para popular o banco. Há mais de 1000 registros então precisa verificar se o local que está sendo feito a inserção não está configurado para limitar o número de inserções.
+
+********************************
+	APLICATIVO_SERVIDOR
+********************************
+
+	-bocaVermelhaWebService.zip: Zip do projeto gerado no Eclipse. Basta extrair a pasta no workspace e importar o projeto.
+
+********************************
+	APLICATIVO_ANDROID
+********************************
+
+	-BocaVermelhaApp.zip: Zip do projeto gerado no Android Studio. Basta extrair a pasta no workspace e importar o projeto.
+
+********************************
+	OUTROS_ARQUIVOS
+********************************
+	
+	-mysql_workbench: Arquivo do Workbench, útil tanto para plotar o MER do banco de dados quanto para manipular a base de maneira mais gráfica, com auto geração de scripts etc.
+
+	- CSV's: para gerar os dados de teste para popular o relatório foi criado um Script em Python 3. Os csv's portanto serviram de base de dados para os dados de teste.
+
+	-exemplos_requisicoes: Modelos de JSON que o Web Service recebe tanto para cadastrar uma denúncia quanto para fazer o acompanhamento.
+
